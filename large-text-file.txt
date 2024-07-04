@@ -1,0 +1,1 @@
+Today 2020.01.14 I perform tests on MacOs HighSierra 10.13.6 on Chrome v78.0.0, Safari v13.0.4 and Firefox v71.0.0, for chosen solutions. I divide solutions to mutable (first letter M) and immutable (first letter I). I also provide few immutable solutions (IB,IC,ID/IE) not yet published in answers to this question
