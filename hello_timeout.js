@@ -1,5 +1,5 @@
 
-
+let fs = require('fs');
 
 //Now to print it one second apart
 let str = ' ';
